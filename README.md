@@ -1,0 +1,1 @@
+The Seisometer Playground Sample App Tutorial published by Apple Developer Connection at https://docs-assets.developer.apple.com/published/46dac79d91963aae96c97eb521044b37/Seismometer.zip converted to an Xcode project.
